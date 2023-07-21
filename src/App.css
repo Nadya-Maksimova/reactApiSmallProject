@@ -1,0 +1,39 @@
+.App {
+  text-align: center;
+  color:rgb(58, 43, 3);
+  text-decoration: dashed;
+  font-size: xx-large;
+  font-family: fantasy;
+ 
+  
+}
+
+
+.App-logo {
+  height: 20vmin;
+  pointer-events: none;
+}
+
+.h2{
+  font-size: xx-large;
+  font-family: fantasy;
+}
+
+
+
+.App-header {
+  background-color:#F7D7CD;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #394c51;
+}
+
+
